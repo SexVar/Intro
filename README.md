@@ -32,10 +32,12 @@ This study will proceed in six sections: (I) a presentation of simulation studie
 <sup>1</sup> Even some sex differences develop to compensate for other sex differences (Arnold, 2020; de Vries, 2004; de Vries & Forger, 2015).
 
 
-<p style="font-size:8pt">
-    Even some sex differences
-</p>
-
 ## References
 
 Archer, J. (2019). The reality and evolutionary significance of human psychological sex differences. _Biological Reviews_, _94_(4), 1381-1415.
+
+Halpern, D. F. (2012). _Sex differences in cognitive abilities_ (4th ed.). Psychology Press.
+
+Hyde, J. S. (2014). Gender similarities and differences. _Annual Review of Psychology_, _65_, 373-398.
+
+Jensen, A. R. (1998). Sex differences in _g_. In _The_ g _factor: The science of mental ability_ (pp. 531-543). Westport, CT: Praeger.
