@@ -27,3 +27,9 @@ TPRs calculated from large data sets are still not very numerous, and they have 
 The terms “gender” and “sex” have been subject to long-standing discussion and criticism (Cretella et al., 2019; Holmes & Monks, 2019; Muehlenhard & Peterson, 2011; Stoller, 1968; Wood & Eagly, 2015). It is not important here to distinguish between them, so they will be used interchangeably and neither “gender difference” nor “sex difference” will refer to a particular cause of such difference. The terms “intelligence” and “cognitive ability” will likewise be used synonymously, as will “variability”, “dispersion”, “spread”, and “scale”.
 
 This study will proceed in six sections: (I) a presentation of simulation studies; (II) a review of TPRs and some of the literature on sex differences in variability; (III) a meta-analysis of data discovered through a systematic literature search; (IV) an analysis of important data from international assessments; (V) an examination of empirical arguments against the greater male variability hypothesis; and (VI) an exploration of potential causes of sex differences in variability. A general discussion with comments on empirical results and theoretical implications will follow.
+
+<sup>1</sup> Even some sex differences develop to compensate for other sex differences (Arnold, 2020; de Vries, 2004; de Vries & Forger, 2015).
+
+## References
+
+Archer, J. (2019). The reality and evolutionary significance of human psychological sex differences. _Biological Reviews_, _94_(4), 1381-1415.
