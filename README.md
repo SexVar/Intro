@@ -9,7 +9,7 @@ However, measurements of some specific cognitive abilities produce mean sex diff
 In combination with differing means in specific abilities, variability differences could be highly consequential in the tails.
 Researchers have debated this possibility since the 19th century, nearly always in the form of greater male variability (GMV).
 
-The idea is generally traced to Charles Darwin (1868, pp. 74f.; 1874, p. 224; 1875, p. 457).
+The idea in its broadest form traces to Charles Darwin (1868, pp. 74f.; 1874, p. 224; 1875, p. 457).
 It was applied to humans by others, who discussed physical as well as mental attributes.
 Most notably it was embraced by Ellis (1894), contested by Pearson (1897), and propounded by Cattell (1903, p. 375) and Thorndike (1903, pp. 113-116; 1910, pp. 33-43).
 However, there was little rigorous data collection and analysis on the question prior to the last thirty years (see Shields, 1982, for a history).
