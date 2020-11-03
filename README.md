@@ -6,7 +6,7 @@ Cognitive research has largely concentrated on measuring average sex differences
 When there is no average difference (typically measured as a mean difference), it may be correct to assume that nothing remains to explain.<sup>1</sup>
 There is probably no significant mean sex difference in general intelligence (Jensen, 1998; Mackintosh, 1996, 2011; Nisbett et al., 2012).
 However, measurements of some specific cognitive abilities produce mean sex differences. And the mean is only one feature of these distributions: differing variability could correspond to a wider distribution of scores in one sex and disparate representation in the tails.
-In combination with differing means in specific abilities, variability differences could contribute to differences at the lowest and highest levels of performance.
+In combination with differing means in specific abilities, variability differences could contribute to important differences at the lowest and highest levels of performance.
 Researchers have debated this possibility since the 19th century, nearly always in the form of greater male variability (GMV).
 
 The idea in its broadest form traces to Charles Darwin (1868, pp. 74f.; 1874, p. 224; 1875, p. 457).
@@ -14,7 +14,7 @@ It was applied to humans by others, who discussed physical as well as mental att
 Most notably it was embraced by Ellis (1894), contested by Pearson (1897), and propounded by Cattell (1903, p. 375) and Thorndike (1903, pp. 113-116; 1910, pp. 33-43).
 However, there was little rigorous data collection and analysis on the question prior to the last thirty years (see Shields, 1982, for a history).
 Feingold’s (1992) study of large US samples reanimated inquiry into the question of greater male variability.
-A number of researchers contemporary to Feingold (1992) proposed that sex differences in variance could be as important as mean differences (B. J. Becker & Hedges, 1988; Favreau & Everett, 1996; Humphreys, 1988; Lubinski & Humphreys, 1990; see Voracek et al., 2013).
+A number of researchers contemporary to Feingold (1992) proposed that sex differences in variance could be as consequential as mean differences (B. J. Becker & Hedges, 1988; Favreau & Everett, 1996; Humphreys, 1988; Lubinski & Humphreys, 1990; see Voracek et al., 2013).
 This prospect remains a source of disagreement, and some researchers have argued that findings of greater male variability are inconsistent and highly susceptible to environmental influence (Feingold, 1994; Hyde et al., 2008; Hyde & Mertz, 2009; Kane & Mertz, 2012; Penner, 2008; Zuze & Reddy, 2016).
 Since the appearance of this new literature, other modern scholars have disputed the greater male variability hypothesis in broader expositions on sex differences, often citing these data (Bosson et al., 2018, pp. 235-237; Brannon, 2017, p. 175; Else-Quest et al., 2010; Fine, 2010; Hamlin, 2007, 2014, p. 92; Hyde & McKinley, 1997; Lips, 2008, pp. 220-222; G. Martin, 2015; Petsko, 2005; Richardson, 2012, 2013, pp. 74f.; Rivers & Barnett, 2013, pp. 97f.; Rippon, 2019, pp. 262f.; Roseberry & Roos, 2014, pp. 71f.; Spelke, 2005; Valian, 1998, pp. 338f.; Valla & Ceci, 2011).
 
