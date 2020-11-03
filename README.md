@@ -36,8 +36,56 @@ This study will proceed in six sections: (I) a presentation of simulation studie
 
 Archer, J. (2019). The reality and evolutionary significance of human psychological sex differences. _Biological Reviews_, _94_(4), 1381-1415.
 
+Becker, B. J. & Hedges, L. V. (1988). The effects of selection and variability in studies of gender differences. _Behavioral and Brain Sciences_, _11_(2), 183-184.
+
+Cattell, J. M. (1903). _A statistical study of eminent men_. Popular Science Monthly, 62, 359–377.
+
+Darwin, C. (1868). _The variation of animals and plants under domestication_ (1st ed., Vol. 2). London, UK: John Murray.
+
+Darwin, C. (1874). _The descent of man, and selection in relation to sex_ (2nd ed.). London, UK: John Murray.
+
+Darwin, C. (1875). _The variation of animals and plants under domestication_ (2nd ed., Vol. 1). London, UK: John Murray.
+
+Ellis, H. (1894). The variational tendency of men. In _Man and woman: A study of human secondary sexual characters_ (pp. 358-372). London, UK: Walter Scott, Ltd.
+
+Favreau, O. E. & Everett, J. C. (1996). A tale of two tails. _American Psychologist_, _51_(3), 268-269.
+
+Feingold, A. (1992). Sex differences in variability in intellectual abilities: A new look at an old controversy. _Review of Educational Research_, _62_(1), 61-84.
+
+Feingold, A. (1994). Gender differences in variability in intellectual abilities: A cross-cultural perspective. _Sex Roles_, _30_(1-2), 81-92.
+
 Halpern, D. F. (2012). _Sex differences in cognitive abilities_ (4th ed.). Psychology Press.
+
+Humphreys, L. G. (1988). Sex differences in variability may be more important than sex differences in means. _Behavioral and Brain Sciences_, _11_(2), 195-196.
 
 Hyde, J. S. (2014). Gender similarities and differences. _Annual Review of Psychology_, _65_, 373-398.
 
+Hyde, J. S., Lindberg, S. M., Linn, M. C., Ellis, A. B., & Williams, C. C. (2008). Gender similarities characterize math performance. _Science_, _321_(5888), 494-495.
+
+Hyde, J. S. & Mertz, J. E. (2009). Gender, culture, and mathematics performance. _Proceedings of the National Academy of Sciences_, _106_(22), 8801-8807.
+
 Jensen, A. R. (1998). Sex differences in _g_. In _The_ g _factor: The science of mental ability_ (pp. 531-543). Westport, CT: Praeger.
+
+Kane, J. M. & Mertz, J. E. (2012). Debunking myths about gender and mathematics performance. _Notices of the AMS_, _59_(1), 10-21.
+
+Lubinski, D. & Humphreys, L. G. (1990). A broadly based analysis of mathematical giftedness. _Intelligence_, _14_(3), 327-355.
+
+Mackintosh, N. J. (1996). Sex differences and IQ. _Journal of Biosocial Science_, _28_(4), 558-571.
+
+Mackintosh, N. J. (2011). Sex differences. In _IQ and human intelligence_ (2nd ed., pp. 360-381). Oxford University Press.
+
+Nisbett, R. E., Aronson, J., Blair, C., Dickens, W., Flynn, J., Halpern, D. F., & Turkheimer, E. (2012). Intelligence: New findings and theoretical developments. _American Psychologist_, _67_(2), 130-159.
+
+Pearson, K. (1897). Variation in man and woman. In _The chances of death, and other studies in evolution_ (Vol. 1; pp. 256-377). London, UK: Edward Arnold.
+
+Penner, A. M. (2008). Gender differences in extreme mathematical achievement: An international perspective on biological and social factors. _American Journal of Sociology_, _114_(S1), S138-S170.
+
+Shields, S. A. (1982). The variability hypothesis: The history of a biological model of sex differences in intelligence. _Signs: Journal of Women in Culture and Society_, _7_(4), 769-797.
+
+Thorndike, E. L. (1903). _Educational psychology_. New York, NY: Lemcke and Buechner.
+
+Thorndike, E. L. (1910). _Educational psychology_ (2nd ed.). New York, NY: Teacher’s College, Columbia University.
+
+Voracek, M., Mohr, E., & Hagmann, M. (2013). On the importance of tail ratios for psychological science. _Psychological Reports_, _112_(3), 872-886.
+
+Zuze, T. L. & Reddy, V. (2016). What has variability got to do with it? Explaining gender achievement gaps among African primary school students. _AfricaGrowth Agenda_, _13_(2), 14-19.
