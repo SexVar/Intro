@@ -9,7 +9,7 @@ However, measurements of some specific cognitive abilities produce mean sex diff
 In combination with differing means in specific abilities, variability differences could contribute to important differences at the lowest and highest levels of performance.
 Researchers have debated this possibility since the 19th century, nearly always in the form of greater male variability (GMV).
 
-The idea in its broadest form traces to Charles Darwin (1868, pp. 74f.; 1874, p. 224; 1875, p. 457).
+The idea in its broadest sense traces to Charles Darwin (1868, pp. 74f.; 1874, p. 224; 1875, p. 457).
 It was applied to humans by others, who discussed physical as well as mental attributes.
 Most notably it was embraced by Ellis (1894), contested by Pearson (1897), and propounded by Cattell (1903, p. 375) and Thorndike (1903, pp. 113-116; 1910, pp. 33-43).
 However, there was little rigorous data collection and analysis on the question prior to the last thirty years (see Shields, 1982, for a history).
@@ -32,6 +32,8 @@ This study will proceed in six sections: (I) a presentation of simulation studie
 
 
 <sup>1</sup> Even some sex differences develop to compensate for other sex differences (Arnold, 2020; de Vries, 2004; de Vries & Forger, 2015).
+
+<sup>2</sup> McNemar and Terman used the term “verbal” in contrast to non-verbal measures of intelligence, rather than in the way verbal measures are distinguished from mathematical and spatial measures in this paper.
 
 
 ## References
