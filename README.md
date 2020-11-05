@@ -30,6 +30,14 @@ The terms “gender” and “sex” have been subject to long-standing discussi
 
 This study will proceed in six sections: (I) a presentation of simulation studies; (II) a review of TPRs and some of the literature on sex differences in variability; (III) a meta-analysis of data discovered through a systematic literature search; (IV) an analysis of important data from international assessments; (V) an examination of empirical arguments against the greater male variability hypothesis; and (VI) an exploration of potential causes of sex differences in variability. A general discussion with comments on empirical results and theoretical implications will follow.
 
+________
+
+Words words
+
+————————
+
+Words words
+
 
 <sup>1</sup> Even some sex differences develop to compensate for other sex differences (Arnold, 2020; de Vries, 2004; de Vries & Forger, 2015).
 
