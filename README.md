@@ -36,7 +36,9 @@ This study will proceed in six sections: (I) a presentation of simulation studie
 
 <sup>2</sup> McNemar and Terman used the term “verbal” in contrast to non-verbal measures of intelligence, rather than in the way verbal measures are distinguished from mathematical and spatial measures in this paper.
 
-___
+&nbsp;
+
+&nbsp;
 
 ## References
 
