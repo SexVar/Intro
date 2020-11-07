@@ -40,7 +40,7 @@ This study will proceed in six sections: (I) a presentation of simulation studie
 
 <sup>1</sup> Even some sex differences develop to compensate for other sex differences (Arnold, 2020; de Vries, 2004; de Vries & Forger, 2015).
 
-<sup>2</sup> McNemar and Terman used the term “verbal” in contrast to non-verbal measures of intelligence, rather than in the way verbal measures are distinguished from mathematical and spatial measures in this paper.
+<sup>2</sup> McNemar and Terman used the term “verbal” in contrast to non-verbal measures of intelligence, rather than in the way verbal tasks are distinguished from mathematical and spatial tasks in this paper.
 
 ## References
 
