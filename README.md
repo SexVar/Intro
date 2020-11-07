@@ -6,7 +6,7 @@ Cognitive research has largely concentrated on measuring average sex differences
 When there is no average difference (typically measured as a mean difference), it may be correct to assume that nothing remains to explain.<sup>1</sup>
 There is probably no significant mean sex difference in general intelligence (Jensen, 1998; Mackintosh, 1996, 2011; Nisbett et al., 2012).
 However, measurements of some specific cognitive abilities produce mean sex differences. And the mean is only one feature of these distributions: differing variability could correspond to a wider distribution of scores in one sex and disparate representation in the tails.
-In combination with differing means in specific abilities, variability differences could contribute to important differences at the lowest and highest levels of performance. Figure 1 below visualizes an example of a typical sex difference in central tendency, compared to a difference in variability.
+In combination with differing means in specific abilities, variability differences could contribute to important differences at the lowest and highest levels of performance. Figure 1 below uses density plots to visualize an example of a typical sex difference in central tendency, compared to a difference in variability.
 
 <p align="center">
 <img src="https://github.com/SexVar/Intro/blob/main/Figure%201.png"/>
