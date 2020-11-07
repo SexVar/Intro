@@ -2,7 +2,7 @@
 
 Questions of sex differences have generated a great deal of scientific research and popular dispute.
 Foremost among them have been psychological and especially cognitive differences (Archer, 2019; Halpern, 2012; Hyde, 2014).
-Cognitive research has largely concentrated on measuring average sex differences and identifying their causes, sometimes accompanied by the intention of reducing or eliminating such differences.
+Cognitive research has largely concentrated on measuring average sex differences and identifying their causes, sometimes accompanied by the intention of reducing such differences.
 When there is no average difference (typically measured as a mean difference), it may be correct to assume that nothing remains to explain.<sup>1</sup>
 There is probably no significant mean sex difference in general intelligence (Jensen, 1998; Mackintosh, 1996, 2011; Nisbett et al., 2012).
 However, measurements of some specific cognitive abilities produce mean sex differences. And the mean is only one feature of these distributions: differing variability could correspond to a wider distribution of scores in one sex and disparate representation in the tails.
