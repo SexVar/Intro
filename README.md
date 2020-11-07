@@ -7,7 +7,7 @@ When no mean difference is found, it may be correct to assume that nothing remai
 There is probably no significant mean sex difference in general intelligence (Jensen, 1998; Mackintosh, 1996, 2011; Nisbett et al., 2012).
 However, the mean is only one feature of these distributions: a wider dispersion of scores in one sex could lead to disparate representation in the tails.
 And in contrast to general intelligence, measurements of some specific cognitive abilities do produce mean sex differences.
-Combined with these differing means, variability differences could contribute to substantial disparities at the lowest and highest levels of performance.
+Combined with differing means in some cases, variability differences could contribute to substantial disparities at the lowest and highest levels of performance.
 Figure 1 below uses density plots to visualize an example of a typical sex difference in central tendency, compared to a difference in variability.
 
 <p align="center">
