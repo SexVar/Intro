@@ -54,7 +54,7 @@ Bosson, J. K., Vandello, J. A., & Buckner, C. E. (2018). _The psychology of sex 
 
 Brannon, L. (2017). _Gender: Psychological perspectives_ (7th ed.). New York, NY: Routledge.
 
-Cattell, J. M. (1903). _A statistical study of eminent men_. Popular Science Monthly, 62, 359–377.
+Cattell, J. M. (1903). A statistical study of eminent men. _Popular Science Monthly_, _62_, 359–377.
 
 Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Hillsdale, NJ: Lawrence Erlbaum Associates.
 
