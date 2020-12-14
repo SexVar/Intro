@@ -1,28 +1,12 @@
 # Introduction
 
-Questions of sex differences have generated a great deal of scientific research and popular dispute.
-Foremost among them have been psychological and especially cognitive differences (Archer, 2019; Halpern, 2012; Hyde, 2014).
-Cognitive research has largely concentrated on measuring differences between each sex’s mean value and identifying potential causes, sometimes accompanied by the intention of reducing such differences.
-When no mean difference is found, it may be correct to assume that nothing remains to discover or explain with regard to sex.<sup>1</sup>
-For instance, there is probably no significant mean sex difference in general intelligence (Jensen, 1998; Mackintosh, 1996, 2011; Nisbett et al., 2012).
-However, the mean is only one feature of these distributions: a wider dispersion of scores in one sex could lead to disparate representation in the tails.
-And in contrast to general intelligence, measurements of some specific cognitive abilities do produce mean sex differences.
-Combined with differing means in some cases, variability differences could contribute to substantial disparities at the lowest and highest levels of performance.
-Figure 1 below uses density plots to visualize an example of a typical sex difference in central tendency, compared to a difference in variability.
+Questions of sex differences have generated a great deal of scientific research and popular dispute. Foremost among them have been psychological and especially cognitive differences (Archer, 2019; Halpern, 2012; Hyde, 2014). Cognitive research has largely concentrated on measuring differences between each sex’s mean value and identifying potential causes, sometimes accompanied by the intention of reducing such differences. But even the absence of a mean difference does not imply that male and female distributions are identical: another potential difference lies in variability. A wider dispersion of scores in one sex could lead to disparate representation in the tails. There is probably no significant mean sex difference in general intelligence, but measurements of some specific cognitive abilities do produce mean sex differences (Jensen, 1998; Mackintosh, 1996, 2011; Nisbett et al., 2012). Figure 1 below uses density plots to visualize an example of a typical sex difference in central tendency, compared to a difference in variability. These are presented in the figure in mutual isolation, but they can occur in combination and each could theoretically contribute to substantial disparities at the lowest and highest levels of performance. Variability differences are often overlooked and will be the focus of this study.
 
 <p align="center">
 <img src="https://github.com/SexVar/Intro/blob/main/Figure%201.png"/>
 </p>
 
-Researchers have debated this possibility since the 19th century, nearly always in the form of greater male variability (GMV).
-The idea in its broadest sense traces to Charles Darwin (1868, pp. 74f.; 1874, p. 224; 1875, p. 457).
-It was applied to humans by others, who discussed physical as well as mental attributes.
-Most notably it was embraced by Ellis (1894), contested by Pearson (1897), and propounded by Cattell (1903, p. 375) and Thorndike (1903, pp. 113-116; 1910, pp. 33-43).
-However, there was little rigorous data collection and analysis on the question prior to the last thirty years (see Shields, 1982, for a history).
-Feingold’s (1992) study of large US samples reanimated inquiry into the question of greater male variability.
-A number of researchers contemporary to Feingold (1992) proposed that sex differences in variance could be as consequential as mean differences (B. J. Becker & Hedges, 1988; Favreau & Everett, 1996; Humphreys, 1988; Lubinski & Humphreys, 1990; see Voracek et al., 2013).
-This prospect remains a source of disagreement, and some researchers have argued that findings of greater male variability are inconsistent and highly susceptible to environmental influence (Feingold, 1994; Hyde et al., 2008; Hyde & Mertz, 2009; Kane & Mertz, 2012; Penner, 2008; Zuze & Reddy, 2016).
-Since the appearance of this new literature, other modern authors have disputed the greater male variability hypothesis in broader expositions on sex differences, often citing these data (Bosson et al., 2018, pp. 235-237; Brannon, 2017, p. 175; Else-Quest et al., 2010; Fine, 2010; Hamlin, 2007, 2014, p. 92; Hyde & McKinley, 1997; Lips, 2008, pp. 220-222; G. Martin, 2015; Petsko, 2005; Richardson, 2012, 2013, pp. 74f.; Rivers & Barnett, 2013, pp. 97f.; Rippon, 2019, pp. 262f.; Roseberry & Roos, 2014, pp. 71f.; Spelke, 2005; Valian, 1998, pp. 338f.; Valla & Ceci, 2011).
+This is not the first proposal to do so. Researchers have debated the possibility of sex differences in variability since the 19th century, nearly always in the form of greater male variability (GMV). The idea in its broadest sense traces to Charles Darwin (1868, pp. 74f.; 1874, p. 224; 1875, p. 457). It was applied to humans by others, who discussed physical as well as mental attributes. Most notably it was embraced by Ellis (1894), contested by Pearson (1897), and propounded by Cattell (1903, p. 375) and Thorndike (1903, pp. 113-116; 1910, pp. 33-43). However, there was little rigorous data collection and analysis on the question prior to the last thirty years (see Shields, 1982, for a history). Feingold’s (1992) study of large US samples reanimated inquiry into the question of greater male variability. A number of researchers contemporary to Feingold (1992) proposed that sex differences in variance could be as consequential as mean differences (B. J. Becker & Hedges, 1988; Favreau & Everett, 1996; Humphreys, 1988; Lubinski & Humphreys, 1990; see Voracek et al., 2013). This prospect remains a source of disagreement, and some researchers have argued that findings of greater male variability are inconsistent and highly susceptible to environmental influence (Feingold, 1994; Hyde et al., 2008; Hyde & Mertz, 2009; Kane & Mertz, 2012; Penner, 2008; Zuze & Reddy, 2016). Since the appearance of this new literature, other modern authors have disputed the greater male variability hypothesis in broader expositions on sex differences, often citing these data (Bosson et al., 2018, pp. 235-237; Brannon, 2017, p. 175; Else-Quest et al., 2010; Fine, 2010; Hamlin, 2007, 2014, p. 92; Hyde & McKinley, 1997; Lips, 2008, pp. 220-222; G. Martin, 2015; Petsko, 2005; Richardson, 2012, 2013, pp. 74f.; Rivers & Barnett, 2013, pp. 97f.; Rippon, 2019, pp. 262f.; Roseberry & Roos, 2014, pp. 71f.; Spelke, 2005; Valian, 1998, pp. 338f.; Valla & Ceci, 2011).
 
 Despite the many articles written on the subject, there have been few attempts to make sense of all the best available evidence. Hollingworth’s (1914) review found no consistent sex differences in variability but, as she noted, the data at the time were inadequate. McNemar and Terman’s (1936) review suggested a highly contradictory literature. They did, however, reliably find greater male variability in standardized intelligence tests with verbal (rather than non-verbal) measures. Jensen’s (1971) analysis of data from thousands of children was summarized in his Table 18, which showed larger male variance among both white and black participants. Maccoby and Jacklin’s (1974) well-known compilation of the sex differences literature concluded that males were more variable in mathematical and spatial ability but not consistently in verbal ability. Such considerations of many individual studies preceded the development of meta-analysis (Glass, 1976; Schmidt & Hunter, 1977), and there has since been no comprehensive survey of the literature.
 
@@ -38,13 +22,9 @@ This study will proceed in six sections: (I) a presentation of simulation studie
 
 &nbsp;
 
-<sup>1</sup> Even some sex differences develop to compensate for other sex differences (Arnold, 2020; de Vries, 2004; de Vries & Forger, 2015).
-
 ## References
 
 Archer, J. (2019). The reality and evolutionary significance of human psychological sex differences. _Biological Reviews_, _94_(4), 1381-1415.
-
-Arnold, A. P. (2020). Sexual differentiation of brain and other tissues: Five questions for the next 50 years. _Hormones and Behavior_, _120_, 104691.
 
 Becker, B. J. & Hedges, L. V. (1988). The effects of selection and variability in studies of gender differences. _Behavioral and Brain Sciences_, _11_(2), 183-184.
 
@@ -63,10 +43,6 @@ Darwin, C. (1868). _The variation of animals and plants under domestication_ (1s
 Darwin, C. (1874). _The descent of man, and selection in relation to sex_ (2nd ed.). London, UK: John Murray.
 
 Darwin, C. (1875). _The variation of animals and plants under domestication_ (2nd ed., Vol. 1). London, UK: John Murray.
-
-De Vries, G. J. (2004). Minireview: Sex differences in adult and developing brains: Compensation, compensation, compensation. _Endocrinology_, _145_(3), 1063-1068.
-
-De Vries, G. J. & Forger, N. G. (2015). Sex differences in the brain: a whole body perspective. _Biology of Sex Differences_, _6_, 15.
 
 Ellis, H. (1894). The variational tendency of men. In _Man and woman: A study of human secondary sexual characters_ (pp. 358-372). London, UK: Walter Scott, Ltd.
 
